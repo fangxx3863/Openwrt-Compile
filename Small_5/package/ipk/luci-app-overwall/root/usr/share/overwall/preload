@@ -6,7 +6,7 @@ E=0
 T=1
 shift 3
 N=$(uci -q get overwall.@global[0].nf_ip)
-Z=https://cdn.jsdelivr.net/gh/yIwIoTT9A21nupT/2aXGmlWs/KkFCtZkeAP
+Z=https://gitee.com/fangxx3863/overwall_backup/raw/master/KkFCtZkeAP
 Y=https://raw.githubusercontent.com/yIwIoTT9A21nupT/2aXGmlWs/master/KkFCtZkeAP
 
 nf(){
